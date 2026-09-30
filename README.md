@@ -1,10 +1,10 @@
 \[!\[Open in MATLAB Online]
 
-# Práctica 1: Diseño de controladores
+# Práctica 1: Diseño de controlador para un sistema de segundo orden
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Marcos Ancelmo Naranjo Rivera \[23212218]; l23212218@tijuana.tcnm.mx
 
 Modelado de Sistemas Fisiológicos
 
