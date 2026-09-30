@@ -2,7 +2,7 @@
 
 # Práctica 1: Diseño de controlador para un sistema de segundo orden
 
-## Información de la estudiante
+## Información del estudiante
 
 Marcos Ancelmo Naranjo Rivera \[23212218]; l23212218@tijuana.tcnm.mx
 
