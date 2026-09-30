@@ -1,6 +1,6 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Marcosnrj/MSFP1)
 
-# Práctica 1: Diseño de controlador para un sistema de segundo orden
+# Práctica 1: Diseño de controlador
 
 ## Información del estudiante
 
